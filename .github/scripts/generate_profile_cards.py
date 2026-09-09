@@ -17,6 +17,8 @@ if not re.fullmatch(r'[A-Za-z0-9-]+', OWNER):
 OUT = Path('dist')
 OUT.mkdir(exist_ok=True)
 HEADERS = {'Accept': 'application/vnd.github+json', 'User-Agent': 'CassieuiL-profile-cards', 'X-GitHub-Api-Version': '2022-11-28'}
+if os.environ.get('GITHUB_TOKEN'):
+    HEADERS['Authorization'] = 'Bearer ' + os.environ['GITHUB_TOKEN']
 
 def get(path):
     request = urllib.request.Request('https://api.github.com' + path, headers=HEADERS)

@@ -28,6 +28,7 @@ jobs:
         run: python .github/scripts/generate_profile_cards.py
         env:
           PROFILE_OWNER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Verify all cards
         shell: python
