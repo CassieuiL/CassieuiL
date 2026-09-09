@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello! I'm Cassie. I explore embodied intelligence." src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie.png" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie.png" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie-light.png" /><img width="80%" alt="Hello! I'm Cassie. I explore embodied intelligence." src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie-light.png" /></picture>
 </p>
 
 I'm exploring **Embodied AI** through computer vision, video understanding, and robotics.
@@ -20,16 +20,16 @@ I'm exploring **Embodied AI** through computer vision, video understanding, and 
 </p>
 
 <p>
-  <a href="https://github.com/CassieuiL?tab=repositories"><img width="53%" align="top" alt="Cassie's public GitHub activity" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats.svg" /></a>
-  <a href="https://github.com/CassieuiL?tab=repositories"><img width="44%" align="top" alt="Languages in Cassie's original code repositories" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages.svg" /></a>
+  <a href="https://github.com/CassieuiL?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats-light.svg" /><img width="53%" align="top" alt="Cassie's public GitHub activity" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats-light.svg" /></picture></a>
+  <a href="https://github.com/CassieuiL?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages-light.svg" /><img width="44%" align="top" alt="Languages in Cassie's original code repositories" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages-light.svg" /></picture></a>
 </p>
 <sub>Public repository data · Updated daily · Language shares measure code size.</sub>
 
 #### Top Repositories
 
 <p>
-  <a href="https://github.com/CassieuiL/cv-research-videomae"><img width="49%" align="top" alt="cv-research-videomae — video understanding and temporal ablations" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/videomae.svg" /></a>
-  <a href="https://github.com/CassieuiL/robocup-home-service-sim"><img width="49%" align="top" alt="robocup-home-service-sim — collaborative robot planning in simulation" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/planner.svg" /></a>
+  <a href="https://github.com/CassieuiL/cv-research-videomae"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/videomae.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/videomae-light.svg" /><img width="49%" align="top" alt="cv-research-videomae — video understanding and temporal ablations" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/videomae-light.svg" /></picture></a>
+  <a href="https://github.com/CassieuiL/robocup-home-service-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/planner.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/planner-light.svg" /><img width="49%" align="top" alt="robocup-home-service-sim — collaborative robot planning in simulation" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/planner-light.svg" /></picture></a>
 </p>
 
 Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-rgb-collector) · [PyTorch training foundations](https://github.com/CassieuiL/cv-research-2026).
@@ -41,7 +41,7 @@ Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Snake animation of CassieuiL's public contribution data" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="Snake animation of CassieuiL's public contribution data" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <sub>Generated daily from public contribution data with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
