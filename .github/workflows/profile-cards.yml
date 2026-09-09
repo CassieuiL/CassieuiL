@@ -35,7 +35,7 @@ jobs:
         run: |
           import pathlib
           import xml.etree.ElementTree as ET
-          for name in ['stats', 'languages', 'videomae', 'planner']:
+          for name in ['stats-equal', 'languages-equal', 'videomae', 'planner']:
               variants = []
               for suffix in ['', '-light']:
                   path = pathlib.Path('dist') / f'{name}{suffix}.svg'
