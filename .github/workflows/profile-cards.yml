@@ -36,11 +36,15 @@ jobs:
           import pathlib
           import xml.etree.ElementTree as ET
           for name in ['stats', 'languages', 'videomae', 'planner']:
-              path = pathlib.Path('dist') / f'{name}.svg'
-              root = ET.parse(path).getroot()
-              assert root.tag.endswith('svg'), f'Invalid SVG: {path}'
-              text = ' '.join(root.itertext()).lower()
-              assert 'something went wrong' not in text, f'Error card: {path}'
+              variants = []
+              for suffix in ['', '-light']:
+                  path = pathlib.Path('dist') / f'{name}{suffix}.svg'
+                  root = ET.parse(path).getroot()
+                  assert root.tag.endswith('svg'), f'Invalid SVG: {path}'
+                  text = ' '.join(root.itertext())
+                  assert 'something went wrong' not in text.lower(), f'Error card: {path}'
+                  variants.append(text)
+              assert variants[0] == variants[1], f'Theme data mismatch: {name}'
 
       - name: Publish generated cards
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5
