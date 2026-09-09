@@ -1,55 +1,47 @@
 <p align="center">
-  <img src="https://github.com/CassieuiL/CassieuiL/raw/refs/heads/main/assets/profile-hero-v2.png" width="100%" alt="CASSIE // EMBODIED INTELLIGENCE — Perception → Understanding → Reasoning → Planning → Action" />
+  <img width="80%" alt="Hello! I'm Cassie. I explore embodied intelligence." src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie.png" />
 </p>
 
-<h3 align="center">Hi, I'm Cassie. &nbsp; Embodied AI &amp; Robotics.</h3>
-<p align="center">Exploring how machines perceive the world, understand what happens, and decide what to do next.</p>
-<p align="center"><sub>ROBOT PERCEPTION &nbsp; / &nbsp; VIDEO UNDERSTANDING &nbsp; / &nbsp; PLANNING &amp; REASONING</sub></p>
+I'm exploring **Embodied AI** through computer vision, video understanding, and robotics.
 
-### Selected work
+**About me**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / UNDERSTANDING</sub>
-<h3><a href="https://github.com/CassieuiL/cv-research-videomae">VideoMAE Research ↗</a></h3>
-<p>Learning from video through temporal sampling, inference ablations, and pretraining transfer.</p>
-<p><strong>84.67% Top-1</strong> · UCF101</p>
-<sub>K400 · 16 frames · stride 4 · 5 clips<br>Repository-reported · <a href="https://github.com/CassieuiL/cv-research-videomae/blob/master/results/tables/ablation_infer.csv">Experiment results</a></sub>
-</td>
-<td width="50%" valign="top">
-<sub>02 / REASONING → ACTION</sub>
-<h3><a href="https://github.com/CassieuiL/robocup-home-service-sim">Service Robot Planner ↗</a></h3>
-<p>Turning world state and task constraints into executable plans for service-robot simulation.</p>
-<p><strong>Reason. Plan. Recover.</strong></p>
-<sub>C++ · Multi-goal execution · Error recovery<br>Collaborative RoboCup simulation project</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 / PERCEPTION</sub>
-<h3><a href="https://github.com/CassieuiL/orbbec-live-rgb-collector">Orbbec Live Collector ↗</a></h3>
-<p>RGB-D and multi-camera capture tooling for building visual datasets from physical sensors.</p>
-<sub>Gemini 335L / 305 · RGB dataset collection<br>Fork of <a href="https://github.com/white-xr/orbbec-live-rgb-collector">white-xr/orbbec-live-rgb-collector</a></sub>
-</td>
-<td width="50%" valign="top">
-<sub>04 / EXPERIMENTAL FOUNDATIONS</sub>
-<h3><a href="https://github.com/CassieuiL/cv-research-2026">Vision Research Lab ↗</a></h3>
-<p>A compact training foundation for configurable experiments, logging, and checkpointing.</p>
-<sub>PyTorch · CIFAR-10 / ResNet-18<br>Seeded runs · TensorBoard</sub>
-</td>
-</tr>
-</table>
+- 🔭 My direction: **Perception → Understanding → Reasoning → Planning → Action**.
+- 🎬 Studying video representations with **VideoMAE**. My UCF101 experiments report [**84.67% Top-1**](https://github.com/CassieuiL/cv-research-videomae/blob/master/results/tables/ablation_infer.csv) with K400 pretraining, 16 frames, stride 4, and 5-clip inference.
+- 🤖 Working on **world-state reasoning, task planning, and error recovery** in service-robot simulation.
+- 🌱 Interested in **robot learning, visual perception, and multimodal learning**.
 
-<p><strong>Research interests</strong><br>Embodied Intelligence · Robot Learning · Multimodal Learning · Visual Perception</p>
-<p><sub>TOOLS &nbsp; Python / C++ / PyTorch / OpenCV / TensorBoard / Git</sub></p>
+<p>
+  <code><img height="24" width="24" alt="Python" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/python.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="C++" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/cplusplus.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="PyTorch" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/pytorch.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="OpenCV" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/opencv.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="Git" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/git.png" /></code>
+</p>
 
-### Contribution stream
+<p>
+  <a href="https://github.com/CassieuiL?tab=repositories"><img width="53%" align="top" alt="Cassie's public GitHub activity" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats.svg" /></a>
+  <a href="https://github.com/CassieuiL?tab=repositories"><img width="44%" align="top" alt="Languages in Cassie's original code repositories" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages.svg" /></a>
+</p>
+<sub>Public repository data · Updated daily · Language shares measure code size.</sub>
+
+#### Top Repositories
+
+<p>
+  <a href="https://github.com/CassieuiL/cv-research-videomae"><img width="49%" align="top" alt="cv-research-videomae — video understanding and temporal ablations" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/videomae.svg" /></a>
+  <a href="https://github.com/CassieuiL/robocup-home-service-sim"><img width="49%" align="top" alt="robocup-home-service-sim — collaborative robot planning in simulation" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/planner.svg" /></a>
+</p>
+
+Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-rgb-collector) · [PyTorch training foundations](https://github.com/CassieuiL/cv-research-2026).
+
+<sub>The Orbbec collector is a fork of <a href="https://github.com/white-xr/orbbec-live-rgb-collector">white-xr's project</a>; the RoboCup planner is collaborative work.</sub>
+
+#### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="CassieuiL's contribution snake" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="Snake animation of CassieuiL's public contribution data" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<p align="center"><sub>PERCEPTION → UNDERSTANDING → REASONING → PLANNING → ACTION</sub></p>
+<sub>Generated daily from public contribution data with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
