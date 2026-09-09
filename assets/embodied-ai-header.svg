@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cassie // Embodied AI</title>
+  <desc id="desc">Perception, Understanding, Reasoning, Planning, Action. A dark research interface with cyan and green accents.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#16303c" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#86efac"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="12" fill="url(#grid)" stroke="#233342"/>
+  <path d="M32 72V32H72 M1128 32H1168V72 M32 248V288H72 M1128 288H1168V248" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="64" y="67" fill="#86efac" font-size="13" letter-spacing="3">CASSIEUIL / RESEARCH &amp; ENGINEERING</text>
+    <text x="62" y="142" fill="#f0f6fc" font-size="49" font-weight="700" letter-spacing="1">CASSIE <tspan fill="#22d3ee">//</tspan> EMBODIED AI</text>
+    <text x="64" y="181" fill="#a8b7c7" font-size="18">Intelligence grounded in the physical world.</text>
+    <path d="M72 223H1128" stroke="url(#signal)" stroke-width="2"/>
+    <g fill="#0d1117" stroke="#22d3ee" stroke-width="2">
+      <circle cx="72" cy="223" r="5"/><circle cx="336" cy="223" r="5"/><circle cx="600" cy="223" r="5"/><circle cx="864" cy="223" r="5"/><circle cx="1128" cy="223" r="5" stroke="#86efac"/>
+    </g>
+    <g fill="#c9d1d9" font-size="14">
+      <text x="64" y="257">01 PERCEPTION</text>
+      <text x="259" y="257">02 UNDERSTANDING</text>
+      <text x="541" y="257">03 REASONING</text>
+      <text x="809" y="257">04 PLANNING</text>
+      <text x="1136" y="257" text-anchor="end" fill="#86efac">05 ACTION</text>
+    </g>
+  </g>
+</svg>
