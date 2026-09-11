@@ -44,4 +44,4 @@ Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-
   <img width="100%" alt="Snake animation of CassieuiL's public contribution data" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Generated daily from public contribution data with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
+<sub>Updated weekly on Mondays from public contribution data with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
