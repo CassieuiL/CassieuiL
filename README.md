@@ -27,7 +27,6 @@ I'm exploring **Embodied AI** through hands-on work in robot perception, control
   <a href="https://github.com/CassieuiL?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats-equal.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats-equal-light.svg" /><img width="49%" align="top" alt="Cassie's public GitHub activity" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/stats-equal-light.svg" /></picture></a>
   <a href="https://github.com/CassieuiL?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages-equal.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages-equal-light.svg" /><img width="49%" align="top" alt="Languages in Cassie's original code repositories" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/profile-cards/languages-equal-light.svg" /></picture></a>
 </p>
-<sub>Public repository data · Updated daily · Language shares measure code size.</sub>
 
 #### Top Repositories
 
@@ -38,8 +37,6 @@ I'm exploring **Embodied AI** through hands-on work in robot perception, control
 
 Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-rgb-collector) · [PyTorch training foundations](https://github.com/CassieuiL/cv-research-2026).
 
-<sub>The Orbbec collector is a fork of <a href="https://github.com/white-xr/orbbec-live-rgb-collector">white-xr's project</a>; the RoboCup planner is collaborative work.</sub>
-
 #### Contribution Snake
 
 <picture>
@@ -47,5 +44,3 @@ Also exploring [RGB-D data collection](https://github.com/CassieuiL/orbbec-live-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
   <img width="100%" alt="Snake animation of CassieuiL's public contribution data" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<sub>Updated weekly on Mondays from public contribution data with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
