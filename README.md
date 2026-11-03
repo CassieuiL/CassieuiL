@@ -2,21 +2,25 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie.png" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie-light.png" /><img width="80%" alt="Hello! I'm Cassie. I explore embodied intelligence." src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/hello-cassie-light.png" /></picture>
 </p>
 
-I'm exploring **Embodied AI** through computer vision, video understanding, and robotics.
+I'm exploring **Embodied AI** through hands-on work in robot perception, control, and video understanding.
 
 **About me**
 
 - 🔭 My direction: **Perception → Understanding → Reasoning → Planning → Action**.
-- 🎬 Studying video representations with **VideoMAE**. My UCF101 experiments report [**84.67% Top-1**](https://github.com/CassieuiL/cv-research-videomae/blob/master/results/tables/ablation_infer.csv) with K400 pretraining, 16 frames, stride 4, and 5-clip inference.
-- 🤖 Working on **world-state reasoning, task planning, and error recovery** in service-robot simulation.
-- 🌱 Interested in **robot learning, visual perception, and multimodal learning**.
+- 🤖 Building a practical foundation in **ROS 2, robot control, and visual perception** through industrial robotics projects.
+- 🛠️ Completed an **end-to-end screw recovery and re-pickup workflow**, covering visual localization, robot motion, release verification, and feedback-based retries.
+- 🎬 Exploring **VideoMAE and Qwen3-VL** for action recognition, process understanding, and SOP verification, with plans to extend this work toward **VLA and WAM**.
+- ⚙️ Using **YOLO, OpenCV, BentoML, and FastAPI** to build perception pipelines and model services, with a focus on **reproducible evaluation and reliable integration**.
 
 <p>
-  <code><img height="24" width="24" alt="Python" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/python.png" /></code>&nbsp;
-  <code><img height="24" width="24" alt="C++" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/cplusplus.png" /></code>&nbsp;
-  <code><img height="24" width="24" alt="PyTorch" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/pytorch.png" /></code>&nbsp;
-  <code><img height="24" width="24" alt="OpenCV" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/opencv.png" /></code>&nbsp;
-  <code><img height="24" width="24" alt="Git" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/git.png" /></code>
+  <code><img height="24" width="24" alt="Python" title="Python" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/python.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="ROS 2" title="ROS 2" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/ros2.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="C++" title="C++" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/cplusplus.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="PyTorch" title="PyTorch" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/pytorch.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="OpenCV" title="OpenCV" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/opencv.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="YOLO" title="YOLO" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/yolo.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="FastAPI" title="FastAPI" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/fastapi.png" /></code>&nbsp;
+  <code><img height="24" width="24" alt="Git" title="Git" src="https://raw.githubusercontent.com/CassieuiL/CassieuiL/main/assets/tech/git.png" /></code>
 </p>
 
 <p>
